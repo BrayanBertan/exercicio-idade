@@ -1,0 +1,17 @@
+body {
+    background-color: darkolivegreen;
+}
+
+
+div,p {
+    text-align: center;
+}
+.divCampo {
+    padding: 15px;
+    margin-top: 15%;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
